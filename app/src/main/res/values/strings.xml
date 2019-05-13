@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Time Calculator</string>
+
+    <string name="welcome">Welcome to use</string>
+
+    <string name="select">Please select mode:</string>
+
+    <string name="twelve_hours_system">12-hour system</string>
+    <string name="twenty_four_hours_system">24-hour system</string>
+    <string name="start_time">Start Time:</string>
+    <string name="end_time">End Time:</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_hour">Total Hours:</string>
+    <string name="invalid_input">Please enter valid time</string>
+    <string name="deduct_hour">Deduct Hours:</string>
+</resources>
